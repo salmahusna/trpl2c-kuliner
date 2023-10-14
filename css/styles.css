@@ -122,7 +122,7 @@ footer {
 	
 }
 
-.tombol-hujau:hover {
+.tombol-hijau:hover {
 	background-color: darkorange;
 	transition-duration: 1s;
 }
@@ -144,6 +144,18 @@ footer {
 		float: left;
 		
 }
+
+.card h6 {
+	color: darkgrey;
+	text-align: right;
+	font-size: 12px;
+	margin-bottom: 10px;
+}
+
+.text-boba {
+	text-align:left;
+}
+
 
 .tanggal-posting {
 	text-align: right;
